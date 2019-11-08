@@ -1,0 +1,29 @@
+table{
+    border: 2px solid #008000;
+    text-align: center;
+    
+
+
+    
+}
+
+th{
+    color: indigo;
+    background-color: lightseagreen;
+    border: 2px solid green;
+}
+
+td{
+    color: lightcoral;
+
+    border: 2px solid green;
+
+    background-color: blueviolet;
+
+
+}
+
+h1{
+    text-align: center;
+}
+

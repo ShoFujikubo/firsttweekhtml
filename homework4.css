@@ -1,0 +1,40 @@
+body{
+     background-color:white;
+}
+
+div{ 
+background-image:url('img2.jpg');
+color:black;
+text-align: center;
+border: 5px solid black;
+font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 20px;
+}
+
+h1{
+    color: tomato;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.p1{
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    color: mediumslateblue;
+}
